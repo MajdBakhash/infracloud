@@ -1,0 +1,16 @@
+{
+  "computernaam": "Majd",
+  "serienummer": "CND3202MKF",
+  "computermodel": "AMD64",
+  "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+  "fysieke_cores": 14,
+  "max_cpu_freq_mhz": 2400.0,
+  "ram_totaal_gb": 31.7,
+  "opslag_bestandssysteem": "NTFS",
+  "opslag_capaciteit_gb": 952.52,
+  "primaire_netwerkinterface": "Ethernet 2",
+  "mac_adres": "0A-00-27-00-00-06",
+  "ipv4_adres": "192.168.56.1",
+  "ipv6_adres": "Onbekend",
+  "ipv6_link_local": "fe80::2983:9762:30ff:86bc"
+}
